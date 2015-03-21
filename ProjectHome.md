@@ -1,0 +1,1 @@
+devops-tech is a simple project for DevOps concept
